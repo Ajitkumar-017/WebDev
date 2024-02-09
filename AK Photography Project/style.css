@@ -41,13 +41,6 @@ i.ri-search-line{
   }
 
 
-  .img{
-    border:1px solid #555;
-    width: 10%;
-    height: 50px;
-  }
-
-
 a{
   margin-right: 150px;
   margin-left: 20px;
@@ -58,8 +51,10 @@ a:hover{
 }
 
 .logo img{
-  max-height: 10%;
-  max-width: 10%;
+  width: 8%;
+  height: 8%;
+  max-height: 8%;
+  max-width: 8%;
 }
 
 
